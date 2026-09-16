@@ -1,5 +1,7 @@
 # Ever Gauzy Platform
 
+> This fork is for Maggie to learn business tool use — exploring how an open-source business management platform (ERP / CRM / HRM) is structured and operated.
+
 <a href="https://trendshift.io/repositories/1775" target="_blank"><img src="https://trendshift.io/api/badge/repositories/1775" alt="ever-co%2Fever-gauzy | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 [uri_gauzy]: https://gauzy.co
